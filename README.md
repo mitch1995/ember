@@ -1,6 +1,6 @@
 # ember-quickstart
 
-This README outlines the details of collaborating on this Ember application.
+This README outlines the details of collaborating on this Ember application. Yep
 A short introduction of this app could easily go here.
 
 ## Prerequisites
